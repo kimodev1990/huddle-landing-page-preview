@@ -66,7 +66,7 @@ header>button {
     justify-content: center;
     align-items: center;
     width: 90%;
-    margin-top: clamp(1.25rem, 0.568rem + 10.909vw, 3.125rem);
+    margin-top: clamp(1rem, 0.227rem + 12.364vw, 3.125rem);
 }
 
 .left-first-group {
@@ -461,12 +461,12 @@ footer {
     }
 
     .rest {
-        margin-top: clamp(50px, 6.94vw, 100px);
+        margin-top: clamp(1.875rem, 0.329rem + 6.579vw, 6.25rem);
     }
 
     .second-group {
         flex-direction: row;
-        margin-top: clamp(75px, 10.41vw, 150px);
+        margin-top: clamp(3.125rem, 0.916rem + 9.398vw, 9.375rem);
         min-height: clamp(200px, 34.7vw, 500px);
     }
 
